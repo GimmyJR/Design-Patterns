@@ -1,0 +1,14 @@
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Users\ELSERAG\source\repos\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll

@@ -1,0 +1,14 @@
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\bin\Debug\net8.0\BuidlerDesignPattern.exe
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\bin\Debug\net8.0\BuidlerDesignPattern.deps.json
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\bin\Debug\net8.0\BuidlerDesignPattern.runtimeconfig.json
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\bin\Debug\net8.0\BuidlerDesignPattern.dll
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\bin\Debug\net8.0\BuidlerDesignPattern.pdb
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\BuidlerDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\BuidlerDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\BuidlerDesignPattern.AssemblyInfo.cs
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\BuidlerDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\BuidlerDesignPattern.dll
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\refint\BuidlerDesignPattern.dll
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\BuidlerDesignPattern.pdb
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\BuidlerDesignPattern.genruntimeconfig.cache
+C:\Users\ELSERAG\source\repos\BuidlerDesignPattern\obj\Debug\net8.0\ref\BuidlerDesignPattern.dll
