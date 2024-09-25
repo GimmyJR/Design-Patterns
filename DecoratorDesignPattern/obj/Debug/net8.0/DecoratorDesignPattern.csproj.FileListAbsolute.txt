@@ -1,0 +1,14 @@
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.exe
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.deps.json
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.runtimeconfig.json
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.dll
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.pdb
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.AssemblyInfo.cs
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.dll
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\refint\DecoratorDesignPattern.dll
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.pdb
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.genruntimeconfig.cache
+C:\Users\ELSERAG\source\repos\DecoratorDesignPattern\obj\Debug\net8.0\ref\DecoratorDesignPattern.dll
